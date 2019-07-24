@@ -1,1 +1,4 @@
-ECHO est  ativado.
+{
+  	"name": "zeit-chat",
+	"version": 1
+}
